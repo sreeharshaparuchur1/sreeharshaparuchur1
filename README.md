@@ -1,6 +1,6 @@
 - 👋 Hi there
-- 👀 I’m interested in learning things in general :p Specifically, I enjoy using reinforcement-learning approaches to optimize robotic navigation.
-- 🌱 I’m currently learning about the field of audio-visual navigation specific to the application of robotics.
+- 👀 I’m interested in learning things in general :p Specifically, I find it exciting to develop reinforcement-learning approaches that optimize robotic navigation.
+- 🌱 I’m currently learning about the field of multimodal navigation (currently audio-visual navigation) specific to the application of robotics.
 - 💞️ I’m looking to collaborate on projects that involve DL in fields such as Computer Vision and NLP
 - 📫 How to reach me: you can reach out to me via email, I look forward to hearing from you!
 
