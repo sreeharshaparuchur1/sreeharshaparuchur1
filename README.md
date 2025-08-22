@@ -1,7 +1,7 @@
 - 👋 Hi there
-- 👀 I’m interested in learning things in general :p Specifically, I find it exciting to develop reinforcement-learning approaches that optimize robotic navigation.
-- 🌱 I’m currently learning about the field of multimodal navigation (currently audio-visual navigation) specific to the application of robotics.
-- 💞️ I’m looking to collaborate on projects that involve DL in fields such as Computer Vision and NLP
+- 👀 I’m interested in learning things in general :p
+- 🌱 My current coursework and research at CMU prioritises Generative Artifiical Intelligence as well as Computer Vision using Deep Learning.
+- 💞️ I’m looking to collaborate on projects that have the scope to be built up into products to disrupt an industry.
 - 📫 How to reach me: you can reach out to me via email, I look forward to hearing from you!
 
 <!---
