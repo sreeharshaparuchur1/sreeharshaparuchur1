@@ -1,10 +1,9 @@
-- 👋 Hi there
-- 👀 I’m interested in learning things in general :p
-- 🌱 My current coursework and research at CMU prioritises Generative Artifiical Intelligence as well as Computer Vision using Deep Learning.
-- 💞️ I’m looking to collaborate on projects that have the scope to be built up into products to disrupt an industry.
-- 📫 How to reach me: you can reach out to me via email, I look forward to hearing from you!
+👋 Hi, I’m Sreeharsha Paruchuri
 
-<!---
-sreeharshaparuchur1/sreeharshaparuchur1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Graduate student at CMU’s Robotics Institute (MRSD), working at the intersection of Deep Learning for Robotics and Computer Vision
+
+🌱 Exploring Generative AI for long-horizon robotic behavior and deep learning for 3D environment understanding
+
+🚀 I’m especially excited about projects that can move beyond the lab into scalable, real-world robotics applications
+
+📫 Reach me at sreeharsha0401@gmail.com - always happy to connect on ideas or projects :)
