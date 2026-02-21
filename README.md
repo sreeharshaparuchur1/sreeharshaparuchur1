@@ -14,7 +14,7 @@
 
 ### About
 
-MS Robotics student at Carnegie Mellon's Robotics Institute, working with [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) on **3D scene representations for Vision-Language-Action models** in robotic manipulation.
+MS Robotics student at Carnegie Mellon's Robotics Institute, working on **post-training flow-matching foundation models with Reinforcement Learning** in robotic manipulation tasks.
 
 I care about two things: making robots understand the 3D world, and making them act intelligently within it. That usually means working somewhere in the intersection of:
 
