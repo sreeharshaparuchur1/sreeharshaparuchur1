@@ -18,9 +18,10 @@ MS Robotics student at Carnegie Mellon's Robotics Institute, working on **post-t
 
 I care about two things: making robots understand the 3D world, and making them act intelligently within it. That usually means working somewhere in the intersection of:
 
-- **Reinforcement Learning** — policy learning, GRPO, reward shaping for long-horizon tasks  
-- **3D Perception** — Gaussian Splatting, multiview geometry and LiDAR/camera fusion
-- **Foundation Models for Robotics** — VLA fine-tuning, using World Models for trajectory forecasting
+- Robots observing the world with cameras and LiDAR  
+- Building structured **3D representations** of scenes  
+- Letting **vision-language or generative models** reason over them  
+- Improving robot behavior through **reinforcement learning**
 
 ---
 
@@ -33,18 +34,8 @@ Builds rich scene representation (3DGS / NeRF / DUST3R)
 VLA reasons over scene + language instruction
          ↓
 RL policy executes & improves from interaction
-```
-
-Current focus: improving spatial reasoning in VLAs for dexterous manipulation using learned 3D scene priors.
-
----
-
-### Writing / Notes
-
-Occasional notes on things I'm reading or building - RL theory, 3D vision, and robotics systems.
-
 ---
 
 <div align="center">
-<sub>Always happy to talk robots, 3D vision, or RL. Reach out anytime.</sub>
+<sub>Always happy to talk Machine Learning, 3D vision, or RL. Reach out anytime.</sub>
 </div>
