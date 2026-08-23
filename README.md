@@ -9,7 +9,7 @@
   <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
-<p align="center"><i>MS Robotics, Carnegie Mellon University · Robotics Institute</i></p>
+<p align="center"><i>Carnegie Mellon University · Robotics Institute</i></p>
 
 ---
 
